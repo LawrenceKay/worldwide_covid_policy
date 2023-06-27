@@ -1,17 +1,26 @@
-Public policy during Covid-19: exploration, analysis and modelling with OxCGRT
+Worldwide covid policy: exploration, analysis and modelling
 ==============================
+
+June 2023
 
 Introduction
 ------------ 
-The Oxford Covid-19 Government Response Tracker (OxCGRT) is a dataset on the policy interventions made by 187 governments around the world during the pandemic, and this project explores its potential for comparative policy analysis. 
+What did countries do to mitigate the effects of severe acute respiratory syndrome coronavirus two (SARS‑CoV‑2) and the Covid-19 pandemic, and why? This project uses the opportunity of this rare 'global policy' event - nearly all countries addressing the same problem at the same time - and rich data on what governments around the world did during the pandemic, to compare and contrast the strategies undertaken. The results will hopefully increase understanding of the approaches that were available to policy-makers, which ones they choose, and what might have prompted them to do so.   
 
-Steps
+The project will answer the following questions to explore the actions take by governments around the world in their attempts to mitigate the effects of the Covid-19 pandemic:
+
+1) What was the policy space available to governments?
+2) Which parts of the policy space did governments use? 
+3) Why did governments use parts of the policy space?   
+
+The project treats policy approaches to the pandemic as taking place in almost a global policy laboratory, with policy-makers taking decisions in a mix of conditions local to them, but similar enough to those of many of their peers to be highly comparable. 
+
+Next steps
 ------------
-The project will likely undertake the following steps:
 
-1) Summary of the literature on Covid-19 policy. 
-2) Exploration of the dataset.  
-3) Analysis and modelling of pandemic interventions. 
+1) Uploading of draft literature and data review on Covid-19 policy undertaken by governments worldwide.   
+2) Uploading and cleaning of select datasets. 
+3) Exploratory data analysis of the datasets and the first question above. 
 
 Check back for updates. 
 
