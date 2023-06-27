@@ -15,6 +15,8 @@ The project will answer the following questions to explore the actions take by g
 
 The project treats policy approaches to the pandemic as taking place in almost a global policy laboratory, with policy-makers taking decisions in a mix of conditions local to them, but similar enough to those of many of their peers to be highly comparable. 
 
+The outputs of the project will likely be a set of notebooks showing analysis and modelling; blogs on findings; and a summary report. 
+
 Next steps
 ------------
 
