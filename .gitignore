@@ -3,3 +3,6 @@ data/
 
 # Mac OS-specific storage files
 .DS_Store
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
