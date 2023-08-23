@@ -15,7 +15,12 @@ The project will answer the following questions to explore the actions take by g
 
 The project treats policy approaches to the pandemic as taking place in almost a global policy laboratory, with policy-makers taking decisions in a mix of conditions local to them, but similar enough to those of many of their peers to be highly comparable. 
 
-The outputs of the project will likely be a set of notebooks showing analysis and modelling; blogs on findings; and a summary report. 
+The outputs of the project will be a set of notebooks showing analysis and modelling; blogs on findings; and a summary report. 
+
+Progress
+------------ 
+
+Blog on the policy tracking datasets in the Oxford Supertracker, \href{http://www.overleaf.com}{https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf}
 
 Next steps
 ------------
