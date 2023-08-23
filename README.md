@@ -20,7 +20,9 @@ The outputs of the project will be a set of notebooks showing analysis and model
 Progress
 ------------ 
 
-Blog on the policy tracking datasets in the Oxford Supertracker, \href{http://www.overleaf.com}{https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf}
+\usepackage{hyperref}
+
+Blog on the policy tracking datasets in the Oxford Supertracker, \href{https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf}{Test}
 
 Next steps
 ------------
