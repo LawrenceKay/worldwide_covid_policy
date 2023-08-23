@@ -20,11 +20,10 @@ The outputs of the project will be a set of notebooks showing analysis and model
 Progress
 ------------ 
 
-\usepackage{hyperref}
-
 [O'Reilly link](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
 
-Blog on the policy tracking datasets in the Oxford Supertracker, \href{https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf}{Test}
+[Blog on the policy tracking datasets in the Oxford Supertracker](https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf)
+
 
 Next steps
 ------------
