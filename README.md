@@ -20,17 +20,14 @@ The outputs of the project will be a set of notebooks showing analysis and model
 Progress
 ------------ 
 
-[O'Reilly link](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
-
-[Blog on the policy tracking datasets in the Oxford Supertracker](https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf)
-
+[Blog on the policy tracking datasets in the Oxford Supertracker](https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf) that scopes the parameters of the data available - topics, timing, geographic coverage of the trackers and suchlike - ahead of assessment of which sources might be most suitable for addressing the questions above. 
 
 Next steps
 ------------
 
 1) Uploading of draft literature and data review on Covid-19 policy undertaken by governments worldwide.   
-2) Uploading and cleaning of select datasets. 
-3) Exploratory data analysis of the datasets and the first question above. 
+2) Investigation of datasets that might be most suitable for modelling and analysis.  
+3) Exploratory data analysis of the selected datasets. 
 
-Check back for updates. 
+
 
