@@ -1,7 +1,7 @@
 Worldwide covid policy: exploration, analysis and modelling
 ==============================
 
-June 2023
+September 2023
 
 Introduction
 ------------ 
@@ -20,7 +20,11 @@ The outputs of the project will be a set of notebooks showing analysis and model
 Progress
 ------------ 
 
-[Blog on the policy tracking datasets in the Oxford Supertracker](https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf) that scopes the parameters of the data available - topics, timing, geographic coverage of the trackers and suchlike - ahead of assessment of which sources might be most suitable for addressing the questions above. 
+[Blog on the policy tracking datasets in the Oxford Supertracker](https://medium.com/@lawrencebernardkay/what-data-is-there-on-covid-19-policy-across-the-world-2b8b49f2cfdf) that scopes the parameters of the data available - topics, timing, geographic coverage of the trackers and suchlike.
+
+[Notebook on policy tracker selection](https://github.com/LawrenceKay/worldwide_covid_policy/blob/main/notebooks/WCP_policy_trackers_selection.ipynb). 
+
+[Notebook for the cleaning of OxCGRT datasets only](https://github.com/LawrenceKay/worldwide_covid_policy/blob/main/notebooks/WCP_oxcgrt_cleaning.ipynb).  
 
 Next steps
 ------------
