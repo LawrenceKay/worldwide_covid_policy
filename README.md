@@ -30,8 +30,7 @@ Next steps
 ------------
 
 1) Uploading of draft literature and data review on Covid-19 policy undertaken by governments worldwide.   
-2) Investigation of datasets that might be most suitable for modelling and analysis.  
-3) Exploratory data analysis of the selected datasets. 
+2) Exploratory data analysis and modelling of the OxCGRT simplified datasets.
 
 
 
